@@ -1,1 +1,4 @@
-
+type: CNAME
+host: www.alexnageswaran.com
+answer: anageswa.github.io
+TTL: 300
